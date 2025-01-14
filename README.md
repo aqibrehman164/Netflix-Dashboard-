@@ -1,6 +1,7 @@
 ![Neflix Tableau Dashboard](https://github.com/aqibrehman164/Netflix-Dashboard-/blob/main/Malik%20Aqib%20Rehman%20Netflix%20Tableau%20Dashboard%20Final.PNG?raw=true)
 # Netflix Tableau Dashboard Insights 
-The Netflix Tableau Dashboard is designed to provide a comprehensive analysis of Netflix's library of movies and TV shows. By leveraging advanced visualizations, the dashboard helps users uncover trends and patterns, making it an essential tool for content strategy and audience engagement analysis. 
+
+- The Netflix Tableau Dashboard is designed to provide a comprehensive analysis of Netflix's library of movies and TV shows. By leveraging advanced visualizations, the dashboard helps users uncover trends and patterns, making it an essential tool for content strategy and audience engagement analysis. 
 --- 
 ## 📊 Key Insights 
 ### 1. **Global Distribution of Content**
